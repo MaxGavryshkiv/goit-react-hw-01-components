@@ -1,0 +1,14 @@
+.friendList {
+    list-style: none;
+}
+.item {
+    width: 100px;
+    height: 50px;
+    display: flex;
+    margin-top: 10px;
+    border-radius: 200px;
+}
+.avatar {
+    border-radius: 100%;
+    border: 1px solid black;
+}
